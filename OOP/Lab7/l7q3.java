@@ -12,7 +12,7 @@ class NumFns<T extends Number> {
     }
 }
 
-public class l9q3 {
+public class l7q3 {
     public static void main(String[] args) {
         NumFns<Integer> i = new NumFns<Integer>(8);
         NumFns<Double> d = new NumFns<Double>(-8.0);
