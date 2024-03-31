@@ -1,3 +1,9 @@
 # CSE_3rd_Semester_Labs
 
-## DSD, DSA, OOPS Labs of 3rd Semester at MIT Manipal
+Code files for my lab classes undertaken in the 3rd Semester of my BTech Computer Science at MIT Manipal.
+
+The lab courses taken were-
+
+- Digital System Design
+- Data Structures Analysis
+- Object Oriented Programming
